@@ -6,6 +6,15 @@ A Flutter-based Todo List application that allows users to manage their tasks ef
 
 ![image](https://github.com/user-attachments/assets/349e999d-96c2-4325-9276-27b2c1430ef9)
 
+# Demo [Tap here!](https://todolistapp-flutter.netlify.app/) 
+
+When using a browser’s **Inspect** tool to view a website in **Phone mode** (mobile view), follow these steps:
+
+1. **Right Click** on the webpage.
+2. Select **Inspect** (or press `Ctrl + Shift + I` on Windows/Linux or `Cmd + Option + I` on macOS).
+3. Once the developer tools open, locate the **device toolbar** icon at the top of the dev tools panel. It looks like a small phone and tablet symbol.
+4. Click on the icon to toggle **Phone mode** (also known as **Responsive Design Mode**).
+5. You can now view the site as it would appear on a phone or tablet. There is an option to select different devices from the dropdown at the top to simulate screen sizes, such as iPhone, Pixel, Galaxy, etc.
 
 ## Features
 
