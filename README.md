@@ -2,11 +2,11 @@
 
 A Flutter-based Todo List application that allows users to manage their tasks efficiently. Users can add, update, delete tasks, and set priorities with date and time settings. The app features a user-friendly interface and utilizes the `intl` package for formatting dates and times.
 
-## Screenshots and Demo [Tap here!](https://todolist-flutter.netlify.app/)
+## Screenshots and Explore [Tap here!](https://todolist-flutter.netlify.app/)
 
 ![image](https://github.com/user-attachments/assets/349e999d-96c2-4325-9276-27b2c1430ef9)
 
-# Demo [Tap here!](https://todolistapp-flutter.netlify.app/) 
+# Demo [Tap here!](https://todolist-flutter.netlify.app/) 
 
 When using a browser’s **Inspect** tool to view a website in **Phone mode** (mobile view), follow these steps:
 
