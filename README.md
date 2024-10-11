@@ -2,6 +2,10 @@
 
 A Flutter-based Todo List application that allows users to manage their tasks efficiently. Users can add, update, delete tasks, and set priorities with date and time settings. The app features a user-friendly interface and utilizes the `intl` package for formatting dates and times.
 
+## Screenshots
+
+*Add screenshots of your app here to showcase the UI and features.*
+
 ## Features
 
 - **Add Tasks**: Users can create new tasks with a title, description, priority level (low, medium, high), and due date/time.
@@ -11,10 +15,6 @@ A Flutter-based Todo List application that allows users to manage their tasks ef
 - **Date and Time Setting**: Users can specify a due date and time for their tasks.
 - **User-Friendly UI**: Designed with simplicity and ease of use in mind.
 - **Internationalization**: Utilizes the `intl` package for date and time formatting to support multiple locales.
-
-## Screenshots
-
-*Add screenshots of your app here to showcase the UI and features.*
 
 ## Installation
 
